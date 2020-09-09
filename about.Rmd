@@ -1,7 +1,10 @@
 ---
 title: "About me"
 ---
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
 
-## Header
+## Information
+B.S in Korea University, 2018.
 
-Say more about you here.
+## Interests
+Topic modelling, Finite mixture, Latent variable modelling, Categorical variable analysis
