@@ -5,6 +5,7 @@ title: "About me"
 
 ## Information
 B.S in Korea University, 2018.
+Ph.D. in Korea University, 2024.
 
 ## Interests
 Topic modelling, Finite mixture, Latent variable modelling, Categorical variable analysis
