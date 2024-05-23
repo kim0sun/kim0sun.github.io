@@ -3,8 +3,8 @@ title: "About me"
 ---
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
 
-## Information
-B.S in Korea University, 2018.
+## Education
+B.S in Korea University, 2018.  
 Ph.D. in Korea University, 2024.
 
 ## Interests
