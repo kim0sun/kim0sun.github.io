@@ -12,15 +12,15 @@ navbar:
       href: https://kim0sun.github.io/blog/
     - text: "Archive"
       menu:
+      - text: "slca Package"
+        icon: fa-archive
+        href: https://kim0sun.github.io/slca/
       - text: "glca Package"
         icon: fa-archive
         href: https://kim0sun.github.io/glca/
-      - text: "Package"
-        icon: fa-archive
-        href: https://kim0sun.github.io/
   right:
     - icon: fa-envelope-o
-      href: mailto:kim0sun@korea.ac.kr
+      href: mailto:yskstat@gmail.com
     - icon: fa-github
       href: https://github.com/kim0sun
 output:
